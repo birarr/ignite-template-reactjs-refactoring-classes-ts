@@ -5,12 +5,12 @@
       "name": "Ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
       "price": "19.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
     {
       "id": 2,
-      "name": "Veggie",
+      "name": "Veggie da Casa",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
       "price": "21.90",
       "available": true,
@@ -21,8 +21,16 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://i.pinimg.com/236x/17/17/37/1717378a9bd98695d77cb6be7876f402.jpg",
+      "name": "Brasileira",
+      "price": "24",
+      "description": "Picanha",
+      "available": true,
+      "id": 4
     }
   ]
 }
